@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\bin\Debug\WindowsFormsApp_PaintWhyyy.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\bin\Debug\WindowsFormsApp_PaintWhyyy.exe
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\bin\Debug\WindowsFormsApp_PaintWhyyy.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.exe
+C:\Users\Admin\source\repos\WindowsFormsApp_PaintWhyyy\obj\Debug\WindowsFormsApp_PaintWhyyy.pdb
